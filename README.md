@@ -1,4 +1,4 @@
-# KiwiKingNeo - Senior QA Engineer and Team Lead
+# KiwiKingNeo - Senior QA Engineer / SDET and QA Team Lead
 
 ## About Me
 
